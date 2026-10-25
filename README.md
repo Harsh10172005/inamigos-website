@@ -1,4 +1,5 @@
 # InAmigos Foundation — Modern NGO Digital Platform
+https://inamigos-foundation-amber.vercel.app/
 
 A production-grade, highly interactive, modern digital platform created for **InAmigos Foundation** — a pan-India, youth-driven non-profit organization focused on Education (*BachpanShala*), Women Empowerment (*Udaan*), Animal Welfare (*Jeev*), Community Relief (*Sewa*), Environmental Sustainability (*Prakriti*), and Youth Development (*Vikas*).
 
